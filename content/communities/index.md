@@ -1,7 +1,7 @@
 ---
 title: Building communities
 intro: 'Whether your project is open source or private, you can build a healthy and effective environment for collaboration.'
-redirect_from:
+redirect_from: eddiepatterson8833@gmail.com
   - /categories/building-a-strong-community
   - /github/building-a-strong-community
 versions:
@@ -17,4 +17,5 @@ children:
   - /maintaining-your-safety-on-github
   - /documenting-your-project-with-wikis
 ---
+
 
